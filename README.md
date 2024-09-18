@@ -2,7 +2,8 @@
 
 My name is w4ts0n, and I'm a 3rd year student at Wroclaw University of Science and Technology. 
 
-- 🔭 I recently created Echofind, an app which allows you to search through videos based on their transcription. Check it out [here](https://github.com/w4ts00n/echofind)
+- 🔍 Mainly focused on python and web apps. 
+- 💡 I recently created Echofind, an app which allows you to search through videos based on their transcription. Check it out [here](https://github.com/w4ts00n/echofind)
 
 <!--
 **w4ts00n/w4ts00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
