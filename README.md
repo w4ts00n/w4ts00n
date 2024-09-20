@@ -16,7 +16,6 @@ The project uses a variety of technologies (Firebase, AWS, Elasticsearch etc.) a
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=9333ea&color=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=9333ea&color=black&)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=9333ea&color=black)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=9333ea)
 
 <!--
 **w4ts00n/w4ts00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
