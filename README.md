@@ -1,6 +1,6 @@
 ## Hello there 🕷
 
-My name is w4ts0n, and I'm a 3rd year student at Wroclaw University of Science and Technology. 
+My name is Jerzy, and I'm a 3rd year student at Wroclaw University of Science and Technology. 
 
 - 🔍 Mainly focused on python and web apps. 
 - 🌑 I recently created Echofind, an app which allows you to search through videos based on their transcription. Check it out [here](https://github.com/w4ts00n/echofind)
